@@ -142,9 +142,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > "He who knows where he comes from knows where to go." — Fahim
-
-```
-**Tip:**  
-Replace the image links above with the actual relative path if you keep screenshots in your repo (e.g. `![Admin Dashboard](docs/2.png)`), or upload them via GitHub issue/PR to get public URLs, or with your own image host.
-
-**You can copy-paste this into your repo, update the image paths, and you’ll have a professional, visually engaging README!**
